@@ -1,22 +1,26 @@
 ﻿resource_groups = {
   r1 = {
-    name     = "up"
+    name     = "UP"
     location = "centralindia"
   }
   r2 = {
-    name     = "mp"
+    name     = "MP"
     location = "eastus"
   }
   r3 = {
-    name     = "mh"
+    name     = "MH"
     location = "centralindia"
   }
   r4 = {
-    name     = "ap"
+    name     = "AP"
     location = "eastus"
   }
   r5 = {
-    name     = "cg"
+    name     = "CG"
     location = "centralindia"
+  }
+  r6 = {
+    name     = "JK"
+    location = "eastus"
   }
 }
